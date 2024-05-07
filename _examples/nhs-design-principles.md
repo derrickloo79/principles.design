@@ -11,7 +11,7 @@ overview: |
         <a href="https://service-manual.nhs.uk/assets/nhs-design-principles.pdf">NHS Design Principles poster</a> (PDF, 177kb)
 
 
-link: https://beta.nhs.uk/service-manual/design-principles
+link: https://service-manual.nhs.uk/design-system/design-principles
 principles:
 - principle: Put people at the heart of everything you do 
   summary: |
